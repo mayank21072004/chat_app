@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/mayank21072004/chat_app/assets/120216514/70d54cce-6df8-44b8-872f-4f86668e4038" width=30% height=30%/>
 <img src="https://github.com/mayank21072004/chat_app/assets/120216514/f203ce59-1161-43cc-8e6a-dcbf983c0190" width=30% height=30%/>
 <img src="https://github.com/mayank21072004/chat_app/assets/120216514/fb707343-ac8f-4839-a05a-32d89f52e51d" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/7.png" width=30% height=30%/>
+<img src="https://github.com/mayank21072004/chat_app/assets/120216514/3d1b6861-3dd7-4b09-9f9c-47b43c24ce05" width=30% height=30%/>
 </kbd>
 <br>
 <br>
