@@ -39,7 +39,6 @@ samples, guidance on mobile development, and a full API reference.
 <li>Simple User Profile (with Photo, About, Last-seen, Created-at)
 <li>Message Read Status
 <li>Message Delete & Edit Feature
-<li>Message Notification (Push Notification)
 <li>Decent UI with New Material Widgets
 <li>And Much More....
 </ul>
