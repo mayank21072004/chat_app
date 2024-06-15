@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/8.png" width=30% height=30%/>
+<img src="https://github.com/mayank21072004/chat_app/assets/120216514/99d81b47-70f9-4563-a513-e2d88902bd28" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/2.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/3.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/4.png" width=30% height=30%/>
